@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-I'm a Full-Stack Developer specializing in building high-performance web applications. My expertise includes:
+ My expertise includes:
 
 - 🔧 Building scalable **Progressive Web Applications (PWA)**
 - 💻 Developing with **MERN Stack** (MongoDB, Express.js, React, Node.js)
