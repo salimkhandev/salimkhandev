@@ -25,9 +25,9 @@ I build fast, scalable, user-focused web applications with a strong emphasis on 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project Name](link) | One-line summary of the app, problem solved, and impact | React, Node.js, MongoDB |
-| [Project Name](link) | One-line summary of the app, problem solved, and impact | Next.js, PostgreSQL |
-| [Project Name](link) | One-line summary of the app, problem solved, and impact | PWA, Redis |
+| PWA Commerce Platform | A fast, mobile-friendly storefront with smooth UX and scalable product flows | React, Node.js, MongoDB |
+| SaaS Admin Dashboard | A data-driven admin panel designed for analytics, management, and operations | Next.js, PostgreSQL |
+| Offline Learning App | A progressive web app built for offline access, content delivery, and engagement | PWA, Redis |
 
 ## Contact
 
